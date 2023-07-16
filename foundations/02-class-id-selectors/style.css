@@ -1,0 +1,19 @@
+.odd {
+    background-color: #FA5D8C;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#edi {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.odd.third {
+    font-size: 24px;
+}
+
+#budu {
+    background-color: #00FF00;
+    font-size: 24px;
+    font-weight: bold;
+}
